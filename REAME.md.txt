@@ -1,0 +1,13 @@
+# Movie Recommender System
+
+## Overview
+Content-based movie recommendation system using cosine similarity.
+
+## Approach
+- Data preprocessing
+- Feature engineering
+- Vectorization
+- Cosine similarity
+
+## Tech Stack
+Python, Pandas, Scikit-learn
